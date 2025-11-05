@@ -1,5 +1,21 @@
 # CIS 5660 HW04 Procedural Buildings
 
+# Result
+
+![](./img/Chinese_Building.png)
+
+**Bell Building Model**
+
+![](./img/Parameters.png)
+
+**Parameters**
+
+I found out the most difficult part is to start learning the ancient Chinese building structure from scratch. Albeit there are lots of details in the actual building, I managed to create a general outline of building, spending most of my time on modeling the roof. The real roof is very detailed, my version is kind of oversimplified, just giving a feeling of how ancient roof looks like.
+
+![](./img/Roof.png)
+
+# Reference
+
 ![](./img/ref.jpg)
 
 ## Project Overview
